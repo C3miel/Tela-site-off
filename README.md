@@ -16,6 +16,6 @@ GitHub: C3miel
 
 Notas:
 
-Imagem ds página original a qual me baseei: img/Captura de tela 2025-05-14 235218.png
+Imagem ds página original a qual me baseei: https://github.com/C3miel/Tela-site-off/blob/main/img/Captura%20de%20tela%202025-05-14%20235218.png?raw=true
 
 
