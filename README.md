@@ -3,7 +3,6 @@ Projeto no qual me baseei na tela de matutenção do site da DNC. Como o site es
 
 ## Tabela de Conteúdos
 - [Uso](#uso)
-- [Exemplos](#exemplos)
 - [Contato](#contato)
 - [Notas](#notas)
 
@@ -17,6 +16,6 @@ GitHub: C3miel
 
 Notas:
 
-Imagem ds página original a qual me baseei: 
+Imagem ds página original a qual me baseei: img/Captura de tela 2025-05-14 235218.png
 
 
