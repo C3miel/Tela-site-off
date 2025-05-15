@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    text-align: center;
+    background-color: #efebe4;
+    color: #292b2d;
+    font-family: inter;
+    font-weight:900;
+    
+}
+
+div img{
+    width: 500px;
+}
+
+#n{
+    background-color: #292b2d;
+    color: #efebe4;
+    padding: 0px 5px;
+}
